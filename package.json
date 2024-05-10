@@ -1,0 +1,19 @@
+{
+  "name": "mixtral-8x7b-retrieval-augmented-generation-llm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "node-llama-cpp": "^2.8.10"
+  }
+}
